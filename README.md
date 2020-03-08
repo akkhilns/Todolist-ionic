@@ -1,2 +1,2 @@
 # ionic
-Todo List in Ionic
+Todo List App in Ionic
