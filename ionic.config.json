@@ -1,0 +1,7 @@
+{
+  "name": "aifi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
